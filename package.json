@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "emailjs-com": "^2.6.3",
     "file-saver": "^2.0.2",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
