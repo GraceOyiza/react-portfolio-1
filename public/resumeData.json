@@ -90,10 +90,6 @@
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
-      },
-      {
         "name": "Postgresql",
         "level": "80%"
       }
