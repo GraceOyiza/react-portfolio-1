@@ -2,18 +2,18 @@
   "main": {
     "name": "Grace Popoola",
     "occupation": "Full-stack web developer",
-    "image": "images/profile_pic.png",
+    "image": "Grace.jpeg",
     "bio": " I am a full-stack web developer. I build websites and proffer solutions to problems and challenges with creative and intelligent thinking. Do you want to build a professional website? Go through my work and you will be convinced by what you see.",
     "contactmessage": "To build a professional website, look through some of my work and experiences! If you like what you see and have a project you need to build, don’t hesitate and contact me.",
     "email": "graceoyiza13@gmail.com",
     "phone": "+2348167717255",
     "address": {
       "street": "Ondo town",
-      "city": "Ondo town",
+      "city": "Ondo",
       "state": "Ondo State"
     },
-    "website": "http://www.richardsprins.me",
-    "resumedownload": "/Richard-Prins-Resume_Aug-2020.pdf",
+    "website": "https://friendly-ramanujan-716119.netlify.app/",
+    "resumedownload": "/Grace-Popoola-Resume.pdf",
     "social": [
       {
         "name": "twitter",
@@ -33,7 +33,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Microverse",
@@ -47,7 +47,7 @@
         "company": "Microverse",
         "title": "Mentor",
         "years": "October 2020 - Present",
-        "description": "Improved productivity of junior developers.Provide technical support to web developers through code reviews."
+        "description": "Improved productivity of junior developers. Provide technical support to web developers through code reviews."
       },
       {
         "company": "Microverse",
@@ -142,18 +142,6 @@
         "image": "weather.png",
         "repo": "https://github.com/GraceOyiza/Weather_app/tree/feature",
         "url": "https://pensive-haibt-c3799b.netlify.app/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
