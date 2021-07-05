@@ -120,6 +120,7 @@ header .social li {
   display: inline-block;
   margin: 0 15px;
   padding: 0;
+  visibility: visible;
 }
 header .social li a {
   color: #fff;

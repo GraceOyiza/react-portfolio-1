@@ -26,31 +26,31 @@ class Portfolio extends Component {
                 onClick={this.handleClick}
               >
                 <img alt={projects.title} src={projectImage} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <a
-                    href={projects.url}
-                    title={projects.title}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="fa fa-link"></i>
-                  </a>
-                  <a
-                    href={projects.repo}
-                    title={projects.title}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <i className="fab fa-github"></i>
-                  </a>
-                </div>
               </a>
+              <div className="overlay">
+                <div className="portfolio-item-meta">
+                  <h5>{projects.title}</h5>
+                  <p>{projects.category}</p>
+                </div>
+              </div>
+              <div className="link-icon">
+                <a
+                  href={projects.url}
+                  title={projects.title}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fa fa-link"></i>
+                </a>
+                <a
+                  href={projects.repo}
+                  title={projects.title}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fab fa-github"></i>
+                </a>
+              </div>
             </div>
           </div>
         );

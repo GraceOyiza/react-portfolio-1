@@ -18,17 +18,17 @@
       {
         "name": "twitter",
         "url": "https://twitter.com/_PopsonGrace",
-        "className": "fa fa-twitter"
+        "className": "fab fa-twitter"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/grace-popoola",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin"
       },
       {
         "name": "github",
         "url": "https://github.com/GraceOyiza",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
       }
     ]
   },
@@ -37,7 +37,7 @@
     "education": [
       {
         "school": "Microverse",
-        "degree": "Full Stack Software Development",
+        "degree": "Full-Stack Software Development",
         "graduated": "June 2020",
         "description": "Graduated with Distinction"
       }
